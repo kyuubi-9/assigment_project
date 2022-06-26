@@ -6,7 +6,7 @@
 
 * ## Second  user: <br />
   username: user2 <br />
-  password:user2passowrd <br />
+  password:user2passoword <br />
   token: have token key <br />
   
  * ## login page: <br />
